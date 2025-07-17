@@ -1,1 +1,3 @@
-creation de commandes
+# git commandes
+liste des commandes git
+
