@@ -20,3 +20,13 @@ permet de verifier le statut du repertoire
 
 ## git log
 permet de lister les modifications en local
+
+## git branch
+permet de creer une branche
+
+## git checkout
+- permet de passer d'une branche a une autre
+- permet de se deplacer d'une branche a une autre
+- avec l'option -b checkout crée une branche si elle n'existe pas  
+
+
